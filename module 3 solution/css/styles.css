@@ -33,11 +33,11 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color:black;
+  color:white;
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: gray;
 }
 #nav-list a span {
   font-size: 1.8em;
